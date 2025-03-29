@@ -1,6 +1,0 @@
-﻿services:
-  todoservice:
-    image: todoservice
-    build:
-      context: .
-      dockerfile: TodoService/Dockerfile
