@@ -124,4 +124,4 @@
 /Users/nazardranhovskyi/Documents/Projects/TodoService/TodoService/obj/Debug/net8.0/TodoService.pdb
 /Users/nazardranhovskyi/Documents/Projects/TodoService/TodoService/obj/Debug/net8.0/TodoService.genruntimeconfig.cache
 /Users/nazardranhovskyi/Documents/Projects/TodoService/TodoService/obj/Debug/net8.0/ref/TodoService.dll
-/Users/nazardranhovskyi/Documents/Projects/TodoService/TodoService/obj/Debug/net8.0/TodoService.csproj.CopyComplete
+/Users/nazardranhovskyi/Documents/Projects/TodoService/TodoService/obj/Debug/net8.0/TodoServ.ADD3FD81.Up2Date
