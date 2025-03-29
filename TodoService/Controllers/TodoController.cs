@@ -7,7 +7,6 @@ namespace TodoService.Controllers;
 
 [Route("api/todo")]
 [ApiController]
-[Authorize]
 public class TodoController : ControllerBase
 {
     private readonly ITodoRepository _todoRepository;
