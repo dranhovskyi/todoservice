@@ -20,6 +20,7 @@
           "net8.0"
         ],
         "sources": {
+          "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -37,7 +38,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -83,6 +85,20 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[8.0.19, 8.0.19]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.19, 8.0.19]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -91,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/nazardranhovskyi/.dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/opt/homebrew/Cellar/dotnet/9.0.8/libexec/sdk/9.0.109/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
